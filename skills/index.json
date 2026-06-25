@@ -347,11 +347,11 @@
     "skillPath": "skills/claude/SKILL.md",
     "designPath": "skills/claude/DESIGN.md"
   },
-  "codex": {
-    "slug": "codex",
-    "name": "Codex",
-    "skillPath": "skills/codex/SKILL.md",
-    "designPath": "skills/codex/DESIGN.md"
+  "codex-style": {
+    "slug": "codex-style",
+    "name": "Codex Style",
+    "skillPath": "skills/codex-style/SKILL.md",
+    "designPath": "skills/codex-style/DESIGN.md"
   },
   "fiction": {
     "slug": "fiction",

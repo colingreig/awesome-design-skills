@@ -1,5 +1,5 @@
 ---
-name: "codex"
+name: "codex-style"
 description: "A radically minimal, blank-canvas interface built as a pure edge-to-edge surface, with almost no color and typography carrying the visual weight. Black serves as the only filled color, the only divider, and the sole surface tone cards."
 metadata:
   author: typeui.sh
