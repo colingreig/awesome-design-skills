@@ -1,0 +1,10 @@
+{
+  "name": "awesome-design-skills",
+  "owner": { "name": "Colin Greig", "email": "colin@ignitemarketing.com" },
+  "metadata": {
+    "description": "Design-style skill collection (fork of bergside/awesome-design-skills), wrapped as a single installable Claude Code plugin. Re-sync from upstream with: gh repo sync colingreig/awesome-design-skills."
+  },
+  "plugins": [
+    { "name": "awesome-design-skills", "source": "./", "description": "70+ UI design-style skills (glassmorphism, brutalism, editorial, etc.)." }
+  ]
+}

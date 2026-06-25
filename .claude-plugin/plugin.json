@@ -1,0 +1,8 @@
+{
+  "name": "awesome-design-skills",
+  "version": "1.0.0",
+  "description": "70+ UI design-style skills (glassmorphism, brutalism, editorial, bento, etc.). Fork of bergside/awesome-design-skills, marketplace-wrapped for Claude Code.",
+  "author": { "name": "bergside (upstream)", "url": "https://github.com/bergside/awesome-design-skills" },
+  "repository": "https://github.com/colingreig/awesome-design-skills",
+  "license": "MIT"
+}
